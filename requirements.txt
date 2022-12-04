@@ -1,0 +1,5 @@
+datasets
+ipykernel
+pip-chill
+torch
+transformers
