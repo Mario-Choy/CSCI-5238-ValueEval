@@ -1,5 +1,11 @@
-datasets
-ipykernel
+accelerate
+evaluate
+imagehash
+ipywidgets
+nvidia-ml-py3
+pandas-profiling
 pip-chill
-torch
+scikit-learn
+torchaudio
+torchvision
 transformers
